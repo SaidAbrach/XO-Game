@@ -45,7 +45,7 @@ To run the XO Game on your local machine, follow these steps:
     5.  Click the reset button to start a new game.
   
 
-###Contact
+### Contact
 
 If you have any questions or suggestions, feel free to reach out!
 
