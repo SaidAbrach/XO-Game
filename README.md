@@ -55,15 +55,6 @@ To run the XO Game on your local machine, follow these steps:
     4.  If all cells are filled and no player has three marks in a row, the game is a draw.
     5.  Click the reset button to start a new game.
   
-        **Project Structure**
-  
-        
-        xo-game/
-        │
-        ├── index.html # The main HTML file
-        ├── style.css # The CSS file for styling
-        └── index.js # The JavaScript file containing game logic
-
 
 **Contact**
 
