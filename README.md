@@ -1,16 +1,5 @@
 # XO Game (Tic-Tac-Toe)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 Welcome to the XO Game, also known as Tic-Tac-Toe! This classic game is a simple yet engaging way to pass the time and challenge your logical thinking skills. The goal is to be the first player to get three of your marks in a row (horizontally, vertically, or diagonally).
@@ -56,7 +45,7 @@ To run the XO Game on your local machine, follow these steps:
     5.  Click the reset button to start a new game.
   
 
-**Contact**
+###Contact
 
 If you have any questions or suggestions, feel free to reach out!
 
